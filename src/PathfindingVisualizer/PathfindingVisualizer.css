@@ -1,0 +1,23 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.start-button {
+  background-color: rgba(136, 255, 0, 0.644);
+  content-visibility: auto;
+  margin-top: 4rem;
+  font-size: 35px;
+}
+
+.reset-button {
+  background-color: rgba(214, 21, 21, 0.644);
+  content-visibility: auto;
+  margin-top: 4rem;
+  font-size: 35px;
+}
+
+.button-div {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
